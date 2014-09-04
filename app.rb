@@ -2,5 +2,5 @@
 require 'sinatra'
 
 get "/" do
-  "hello world, my name is Max"
+  erb :index
 end
