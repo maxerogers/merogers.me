@@ -228,8 +228,9 @@ header .intro-text .intro-heading {
     }
 }
 
+
 section {
-    padding: 100px 0;
+    padding-top: 100px;
 }
 
 section h2.section-heading {
@@ -249,7 +250,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding-top: 150px 0;
     }
 }
 
@@ -280,7 +281,7 @@ section h3.section-subheading {
 }
 
 footer {
-    padding: 25px 0;
+    padding-bottom: 25px 0;
     text-align: center;
 }
 
